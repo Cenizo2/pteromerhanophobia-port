@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "Pteromerhanophobia",
+		"player1": "bfT",
+		"player2": "FirstTrollge1",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"FirstTrollge2"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				223385.3820598,
+				[
+					[
+						"Change Character",
+						"dad",
+						"FirstTrollge3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 140,
+		"arrowSkin": "NOTE_assets2",
+		"needsVoices": true,
+		"song": "pteromerhanophobia"
+	}
+}
