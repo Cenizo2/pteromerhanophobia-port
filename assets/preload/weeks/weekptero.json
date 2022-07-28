@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"pteromerhanophobia",
+			"troll",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "troll",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Blueballs incident 2.0",
+	"weekName": "pteromerhanophobia",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
